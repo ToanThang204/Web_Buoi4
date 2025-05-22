@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BaiTapBuoi4.props" />
+</Project>
